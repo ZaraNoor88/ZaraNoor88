@@ -24,19 +24,6 @@ I'm passionate about advancing artificial intelligence through research and buil
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZaraNoor88&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaraNoor88&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZaraNoor88&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 
 ## 💼 Open to Opportunities
@@ -46,7 +33,7 @@ I'm actively seeking opportunities in:
 - 🏢 **NLP Engineer roles**
 - 🤝 **Collaborative research projects**
 - 💬 **Ask me about Machine Learning, Deep Learning and NLP**
-- 😄 Happy Learning
+- 😄 **Happy Learning**
 
 ---
 
@@ -71,7 +58,7 @@ I'm actively seeking opportunities in:
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/zara-noor)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaranoor.ms@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
+
 
 </div>
 
